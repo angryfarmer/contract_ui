@@ -22,7 +22,30 @@
   font-size: large;
 }
 
+.standard-button{
+  width: 20%;
+  height: 20px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+
+.user-acc-button {
+  overflow-wrap: break-word;
+  height: 40%;
+  overflow-y: auto;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+
+.contract-name-button {
+  overflow-wrap: break-word;
+  height: 40%;
+  overflow-y: auto;
+  margin: 5px;
+  border: 1px solid black;
 }
